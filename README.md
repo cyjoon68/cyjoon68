@@ -11,6 +11,6 @@
 
 <h3>📌 Projects</h3>
 
-- [genp](https://github.com/cyjoon68/genp) - AI 기반 상품 컨설팅 및 생성 플랫폼
+- [genp](https://github.com/cyjoon68/genp) - AI 기반 상품 상세페이지 설계 및 e-commerce 플랫폼
 - [harness-creator](https://github.com/cyjoon68/harness-creator) - AI agent 하네스 생성과 설계 도구
 - [backend-skills](https://github.com/cyjoon68/backend-skills) - 백엔드 실무 스킬 모음
