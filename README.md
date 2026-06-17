@@ -1,7 +1,3 @@
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fcyjoon68?color=green&label=hits&size=small)](https://myhits.vercel.app)
-
----
-
 <h3>🛠 Tech Stacks</h3>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
@@ -25,6 +21,3 @@
 - [harness-creator](https://github.com/cyjoon68/harness-creator) - AI agent 하네스 생성과 설계 도구
 - [backend-skills](https://github.com/cyjoon68/backend-skills) - 백엔드 실무 스킬 모음
 
-<h3>✉️ Contact</h3>
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-cyjoon68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cyjoon68)
