@@ -4,7 +4,7 @@
 
 <h3>🤖 AI Agent</h3>
 
-<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20Claude-D97757?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCode-000000?style=flat-square"/>
 
 <h3>🚀 Interest</h3>
 
