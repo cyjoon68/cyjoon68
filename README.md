@@ -7,10 +7,9 @@
 - React, TypeScript, React Native/Expo를 활용한 **프론트엔드 엔지니어링**
 - 하네스 팀을 설계하고 최적화하는 **AX 엔지니어링**
 - 좋은 AI 툴을 사용해보며 개발 흐름에 적용하는 **AI 기반 개발**
-- 목표에 맞는 플랜과 루프를 설계하는 **루프 엔지니어링**
+- 목표, 실행, 검증, 개선이 이어지는 **피드백 루프 설계**
 
 <h3>📌 Projects</h3>
 
 - [genp](https://github.com/cyjoon68/genp) - AI 기반 상품 상세페이지 설계 및 e-commerce 플랫폼
 - [harness-creator](https://github.com/cyjoon68/harness-creator) - AI agent 하네스 생성과 설계 도구
-- [backend-skills](https://github.com/cyjoon68/backend-skills) - 백엔드 실무 스킬 모음
