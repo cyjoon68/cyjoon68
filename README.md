@@ -15,5 +15,5 @@
 
 <h3>📌 Projects</h3>
 
-- [genp](https://github.com/cyjoon68/genp) - AI 기반 상품 상세페이지 설계 및 e-commerce 플랫폼
-- [harness-creator](https://github.com/cyjoon68/harness-creator) - AI agent 하네스 생성과 설계 도구
+- [shopport-app](https://github.com/cyjoon68/shopport-app) - 대화로 상품을 찾고 비교하는 iOS·Android 쇼핑 에이전트
+- [dadamjang-workspace](https://github.com/cyjoon68/dadamjang-workspace) - 다담장 커머스 플랫폼의 통합 작업 공간
