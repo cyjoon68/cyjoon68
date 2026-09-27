@@ -15,5 +15,5 @@
 
 <h3>📌 Projects</h3>
 
-- [shopport-app](https://github.com/cyjoon68/shopport-app) - 대화로 상품을 찾고 비교하는 iOS·Android 쇼핑 에이전트
-- [dadamjang-workspace](https://github.com/cyjoon68/dadamjang-workspace) - 다담장 커머스 플랫폼의 통합 작업 공간
+- [chattea-workspace](https://github.com/cyjoon68/chattea-workspace) - WebView·스트리밍 SSR 커뮤니티와 실시간 채팅을 갖춘 매칭 앱의 통합 작업 공간
+- [push-workspace](https://github.com/cyjoon68/push-workspace) - LangGraph 기반 AI 워크플로우 데스크톱 앱의 통합 작업 공간
